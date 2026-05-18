@@ -3,7 +3,7 @@ package dev.java10x.CadastroDeNinjas;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "tb_cadast")
+@Table(name = "tb_cadastro")
 public class NinjaModel {
 
     @Id
